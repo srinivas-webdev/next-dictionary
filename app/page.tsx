@@ -1,4 +1,3 @@
-import Image from 'next/image'
 import BrowseWords from './components/browse/browse-words'
 import RandomWord from './components/random-word'
 
